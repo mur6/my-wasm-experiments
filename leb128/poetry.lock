@@ -1,0 +1,17 @@
+[[package]]
+name = "leb128"
+version = "1.0.4"
+description = "LEB128(Little Endian Base 128)"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "d25ca7b559c6b95ebfc09b226ba01cd530e179321cdab556bc9a075769966805"
+
+[metadata.files]
+leb128 = [
+    {file = "leb128-1.0.4.tar.gz", hash = "sha256:3552deeae400b835f86e0d32eb7c737a75eb167c0eb551b70268d522633581af"},
+]
