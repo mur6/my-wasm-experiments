@@ -10,4 +10,5 @@ def main():
         q = conv_leb128(i)
         print(f"{i:03}\t0x{i:04x}\tLEB128=[{q}]")
 
-main()
+if __name__ == "__main__":
+    main()
